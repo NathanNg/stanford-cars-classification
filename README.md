@@ -6,8 +6,8 @@ The notebook was run on Google Cloud on P100 Telsa with 16GB of memory.
 
 ## Top Score
 
-| Fastai 	| Architecture 	| Epoch 	| Learning Rate 	| Transform 	| Accuracy 	| Time 	|
-|--------	|-------------:	|-------	|---------------	|-----------	|----------	|------	|
-|        	|              	|       	|               	|           	|          	|      	|
-|        	|              	|       	|               	|           	|          	|      	|
-|        	|              	|       	|               	|           	|          	|      	|
+| # Run| Fastai 	| Architecture 	| Epoch 	| Learning Rate 	| Transform 	| Accuracy 	| Time 	|
+|------|--------	|-------------:	|-------	|---------------	|-----------	|----------	|------	|
+|      |        	|              	|       	|               	|           	|          	|      	|
+|      |        	|              	|       	|               	|           	|          	|      	|
+|      |        	|              	|       	|               	|           	|          	|      	|
