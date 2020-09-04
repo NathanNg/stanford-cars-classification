@@ -1,3 +1,4 @@
 #ignore jupyter checkpoint
 .ipynb_checkpoints
-
+#ignore all . folders but include . files
+.*/
